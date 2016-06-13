@@ -2,8 +2,8 @@
 
 Kiosk is a [IIIF] viewer for newspapers. It's a work in progress that will
 eventually provide a React JavaScript application you can embed on your site to
-view newsapers. It's a sister project of [ndnp_iiif] which turns National
-Digital Newspaper Program data into IIIF.
+view newsapers. It's a sister project of [ndnp_iiif] which turns [National
+Digital Newspaper Program] data into IIIF.
 
 ## Development
 
@@ -23,3 +23,4 @@ More details will become available as more development happens :)
 [IIIF]: http://iiif.io/
 [ndnp_iiif]: https://github.com/umd-mith/ndnp_iiif
 [react-redux-starter-kit]: https://github.com/davezuko/react-redux-starter-kit
+[National Digital Newspaper Program]: http://loc.gov/ndnp/
