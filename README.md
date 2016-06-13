@@ -20,6 +20,6 @@ To get going with Kiosk:
 
 More details will become available as more development happens :)
 
-[IIIF]: https://iiif.io/
+[IIIF]: http://iiif.io/
 [ndnp_iiif]: https://github.com/umd-mith/ndnp_iiif
 [react-redux-starter-kit]: https://github.com/davezuko/react-redux-starter-kit
